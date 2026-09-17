@@ -18,11 +18,6 @@ Backend engineer
 **Containerised.** docker-compose definition for drop-in deployment alongside consuming services.
 
 
-## Screenshots
-
-<!-- ![Api Reference](docs/api-reference.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
