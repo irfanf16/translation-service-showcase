@@ -7,7 +7,7 @@ A small, single-purpose HTTP service providing translation and locale management
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Backend engineer — sole developer.
+Backend engineer
 
 ## Engineering highlights
 
